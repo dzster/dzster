@@ -30,17 +30,12 @@
 <p>
     <a href="https://t.me/dzster" target="blank"><img src="https://img.shields.io/badge/@dzster-30302f?style=flat&logo=telegram" /></a>
 </p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/feriexp?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+<p align="center">
+    <b>PROFILE VISITOR</b><br>
+    <img align="middle" src="https://profile-counter.glitch.me/dzster/count.svg" />
+</p>
 
 
-</details>
+
+
