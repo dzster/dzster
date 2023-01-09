@@ -1,6 +1,6 @@
 # About me
-- **Nama**  : `Diagi`
-- **Status**: `Mencari cinta sejati`
+- **Nama**  : `Diago`
+- **Status**: `Nguli`
 - **Umur**  : `18`
 - **Asal**  : `Jawa barat/Bandung`
 - **Zodiak**: `Leo`
